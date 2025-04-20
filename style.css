@@ -1,0 +1,22 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background: #dadceb;
+    color: #2b3a4a;
+  }
+  
+  header {
+    background: #231440;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  section {
+    padding: 20px;
+    margin: 20px;
+    background: white;
+    border-radius: 10px;
+  }

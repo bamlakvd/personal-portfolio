@@ -58,3 +58,15 @@ footer {
   color: #777;
   font-size: 0.9rem;
 }
+
+/* profile name */
+.profile-pic {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 15px;
+  border: 3px solid #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
